@@ -6,3 +6,9 @@ Pandas,
 Numpy,
 Path,
 matplotlib.
+
+## Contributors
+Hugo Velazquez
+
+### License
+MIT
